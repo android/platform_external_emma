@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9facebe1_b0134b2b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-01-23T23:07:00Z",
+      "side": 1,
+      "message": "Voting -1 on Open-Source-Licensing until Dash approves.",
+      "revId": "7b67e664c7557c4ad27b2a5a94b79d27a8439d92",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
