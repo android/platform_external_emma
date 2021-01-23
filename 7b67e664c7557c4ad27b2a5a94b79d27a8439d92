@@ -1,0 +1,7 @@
+Code-Review+2: allenhair <allenhair@google.com>
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Submitted-by: Bob Badour <bbadour@google.com>
+Submitted-at: Sat, 23 Jan 2021 23:07:59 +0000
+Reviewed-on: https://android-review.googlesource.com/c/platform/external/emma/+/1556387
+Project: platform/external/emma
+Branch: refs/heads/master
